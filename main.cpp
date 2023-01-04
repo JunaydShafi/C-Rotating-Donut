@@ -1,4 +1,5 @@
 // got this off youtube so idk if its gonna workj on repelit so this might work on ubunto or linux video link is---> https://www.youtube.com/watch?v=Q4yDMnHkmVY
+//This wont work on ubunto because ubunto is a vdi and to use this program you need windows.h which will only work on a windows enviorment.....
 #include <iostream>
 #include <windows.h>
 #include <stdio.h>
